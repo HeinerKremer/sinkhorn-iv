@@ -1,0 +1,6 @@
+numpy
+torch
+matplotlib
+scipy
+PyQt5
+tqdm
